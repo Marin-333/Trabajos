@@ -1,0 +1,14 @@
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar\Blackjack_Alasar\bin\Debug\Blackjack_Alasar.exe.config
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar\Blackjack_Alasar\bin\Debug\Blackjack_Alasar.exe
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar\Blackjack_Alasar\bin\Debug\Blackjack_Alasar.pdb
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar\Blackjack_Alasar\obj\Debug\Blackjack_Alasar.csproj.AssemblyReference.cache
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar\Blackjack_Alasar\obj\Debug\Blackjack_Alasar.csproj.CoreCompileInputs.cache
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar\Blackjack_Alasar\obj\Debug\Blackjack_Alasar.exe
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar\Blackjack_Alasar\obj\Debug\Blackjack_Alasar.pdb
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar - copia\Blackjack_Alasar\bin\Debug\Blackjack_Alasar.exe.config
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar - copia\Blackjack_Alasar\bin\Debug\Blackjack_Alasar.exe
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar - copia\Blackjack_Alasar\bin\Debug\Blackjack_Alasar.pdb
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar - copia\Blackjack_Alasar\obj\Debug\Blackjack_Alasar.csproj.AssemblyReference.cache
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar - copia\Blackjack_Alasar\obj\Debug\Blackjack_Alasar.csproj.CoreCompileInputs.cache
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar - copia\Blackjack_Alasar\obj\Debug\Blackjack_Alasar.exe
+C:\Users\Sneyd\OneDrive\Documentos\C#\Blackjack_Alasar - copia\Blackjack_Alasar\obj\Debug\Blackjack_Alasar.pdb
