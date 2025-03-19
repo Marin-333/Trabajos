@@ -1,0 +1,7 @@
+C:\Users\Sneyd\Downloads\Examen_clase\Examen_clase\bin\Debug\Examen_clase.exe.config
+C:\Users\Sneyd\Downloads\Examen_clase\Examen_clase\bin\Debug\Examen_clase.exe
+C:\Users\Sneyd\Downloads\Examen_clase\Examen_clase\bin\Debug\Examen_clase.pdb
+C:\Users\Sneyd\Downloads\Examen_clase\Examen_clase\obj\Debug\Examen_clase.csproj.AssemblyReference.cache
+C:\Users\Sneyd\Downloads\Examen_clase\Examen_clase\obj\Debug\Examen_clase.csproj.CoreCompileInputs.cache
+C:\Users\Sneyd\Downloads\Examen_clase\Examen_clase\obj\Debug\Examen_clase.exe
+C:\Users\Sneyd\Downloads\Examen_clase\Examen_clase\obj\Debug\Examen_clase.pdb
